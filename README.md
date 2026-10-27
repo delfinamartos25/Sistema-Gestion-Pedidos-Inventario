@@ -50,3 +50,8 @@ Se utilizó ChatGPT, desarrollado por OpenAI, como herramienta de apoyo para org
 Entre las indicaciones realizadas a la herramienta se solicitó mantener la continuidad con las entregas anteriores, respetar la estructura real del emprendimiento, distinguir las funcionalidades propuestas de las implementadas y adecuar los contenidos a la consigna de la Unidad 5.
 
 Las propuestas generadas se contrastan con los materiales de la cátedra y con las decisiones de diseño adoptadas en el proyecto. La selección de contenidos, la revisión conceptual y la validación de los resultados forman parte del trabajo de la estudiante.
+
+
+Autorrevisión del Pull Request
+
+La revisión del Pull Request fue realizada por la propia autora, al tratarse de un trabajo individual, conforme a la alternativa autorizada por el docente tutor Pablo García. Los comentarios técnicos, las verificaciones y las correcciones realizadas quedaron documentados en el Pull Request #1.
